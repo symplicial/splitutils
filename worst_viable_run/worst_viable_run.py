@@ -1,4 +1,4 @@
-# LiteSplit
+# SplitUtils
 # Copyright (C) 2024  symplicial
 #
 # This program is free software: you can redistribute it and/or modify
